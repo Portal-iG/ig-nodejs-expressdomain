@@ -1,0 +1,11 @@
+{
+	"name": "ig-nodejs-expressdomain",
+	"version": "0.1.0",
+	"author": "Ricardo Massa <rgermano@igcorp.com.br>",
+	"main": "lib/expressdomain.js",
+ 	"dependencies": {
+    	"winston": "0.7.x"
+  	},
+  	"devDependencies": {
+  	}
+}
